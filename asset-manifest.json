@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spasneakers/static/css/main.d7d6662c.chunk.css",
+    "main.js": "/spasneakers/static/js/main.4868486f.chunk.js",
+    "main.js.map": "/spasneakers/static/js/main.4868486f.chunk.js.map",
+    "runtime-main.js": "/spasneakers/static/js/runtime-main.6a8a4620.js",
+    "runtime-main.js.map": "/spasneakers/static/js/runtime-main.6a8a4620.js.map",
+    "static/css/2.d1a593dc.chunk.css": "/spasneakers/static/css/2.d1a593dc.chunk.css",
+    "static/js/2.87279b83.chunk.js": "/spasneakers/static/js/2.87279b83.chunk.js",
+    "static/js/2.87279b83.chunk.js.map": "/spasneakers/static/js/2.87279b83.chunk.js.map",
+    "static/js/3.a8eca363.chunk.js": "/spasneakers/static/js/3.a8eca363.chunk.js",
+    "static/js/3.a8eca363.chunk.js.map": "/spasneakers/static/js/3.a8eca363.chunk.js.map",
+    "index.html": "/spasneakers/index.html",
+    "static/css/2.d1a593dc.chunk.css.map": "/spasneakers/static/css/2.d1a593dc.chunk.css.map",
+    "static/css/main.d7d6662c.chunk.css.map": "/spasneakers/static/css/main.d7d6662c.chunk.css.map",
+    "static/js/2.87279b83.chunk.js.LICENSE.txt": "/spasneakers/static/js/2.87279b83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a8a4620.js",
+    "static/css/2.d1a593dc.chunk.css",
+    "static/js/2.87279b83.chunk.js",
+    "static/css/main.d7d6662c.chunk.css",
+    "static/js/main.4868486f.chunk.js"
+  ]
+}
