@@ -1,0 +1,46 @@
+.Drawer-content {
+  justify-content: center !important;
+  align-items: center !important;
+
+  .Drawer-status {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .Drawer-status__title {
+      font-family: Inter, sans-serif;
+      font-weight: 600;
+      font-size: 22px;
+      color: #000000;
+    }
+
+    .Drawer-status__desc {
+      font-family: Inter, sans-serif;
+      font-weight: 300;
+      font-size: 16px;
+      text-align: center;
+      color: #000000;
+      opacity: 0.4;
+    }
+
+    .Drawer-status__btn {
+      width: 245px;
+      height: 55px;
+      background: #9DD458;
+      border-radius: 18px;
+      font-family: Inter, sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      text-align: center;
+      color: #FFFFFF;
+      border: none;
+
+      &:hover {
+        transform: scale(1.1);
+        background: #9DD579;
+        cursor: pointer;
+      }
+    }
+  }
+}
